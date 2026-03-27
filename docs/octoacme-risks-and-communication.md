@@ -39,4 +39,4 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook, notify the Security Champion and Security on-call, and escalate to Sponsors as needed

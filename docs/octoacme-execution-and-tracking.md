@@ -20,8 +20,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Security scanning in CI (coordinated with the Security Champion)
+- Manual QA for feature acceptance when needed, led by the QA Lead / Tester
+- QA Lead / Tester signs off on quality gates before features are marked done or released
 
 ## Reporting & Metrics
 - Track velocity and burndown
